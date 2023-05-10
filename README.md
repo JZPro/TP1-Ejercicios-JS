@@ -2,25 +2,43 @@
 ## Trabajo Práctico 1 - JavaScript
 
 1) Realizar una funcion que reciba un numero y escriba una piramide desde 1 hasta ese numero de la siguiente forma:
+
 para valor 6
+
 1
+
 12
+
 123
+
 1234
+
 12356
 
+
+
 para valor 3
+
 1
+
 12
+
 123
+
+
 
 
 2) Escribir una funcion que reciba 2 array y devuelva un array con todos los elementos que coinciden entre ellos
 
+
 Ejemplo:
+
 Array1: ['rojo', 'azul', 'amarillo']
+
 Array2: ['blanco', 'negro', 'rojo']
+
 Resultado: ['rojo']
+
 
 Ejemplo 2:
 Array1: [4, 3, true, 'manzana']
